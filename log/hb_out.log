@@ -1,0 +1,661 @@
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-08-09 23:01:52
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV3\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV3\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV3\modbus_cnet.prg
+Called from (b)MAIN(153) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV3\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(33) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV3\f_processo.prg
+Called from (b)MAIN(21) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV3\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV3\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-09-29 18:53:36
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-05 06:22:43
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-11 03:47:56
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-12 19:18:43
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from AADD(0)
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA3(1177) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ3(796) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(415) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-14 05:24:19
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-18 03:26:20
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TMYSQLROW:NEW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA4(1235) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ4(905) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(416) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-20 05:21:11
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-25 19:51:23
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from LOGIN(71) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_login.prg
+Called from PARTIDA_AUTOCLAVE2(200) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_autoclaveCalled from (b)INICIO_AUTOCLAVE2(212) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_autoclaCalled from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1762) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from INICIO_AUTOCLAVE2(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_autoclavesCalled from (b)PROCESSO(2446) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1762) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-10-27 12:32:30
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TMYSQLROW:NEW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:SKIP(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:SKIP(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA1(1063) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ1(571) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(413) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-11-05 05:08:09
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-11-08 15:56:44
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TMYSQLROW:NEW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:SKIP(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:SKIP(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA3(1191) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ3(796) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(415) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-11-10 06:15:19
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-11-17 06:55:41
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TMYSQLROW:NEW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:SKIP(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:SKIP(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA3(1191) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ3(796) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(415) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-11-18 21:34:47
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-11-23 15:30:17
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TMYSQLROW:NEW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:SKIP(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:SKIP(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA4(1249) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ4(905) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(416) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-11-29 05:34:46
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TMYSQLROW:NEW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:SKIP(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:SKIP(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA3(1191) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ3(796) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(415) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-12-06 08:41:10
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(881) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-12-09 00:50:22
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-12-13 06:17:49
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TMYSQLROW:NEW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:GETROW(0) in hbmysql\tmysql.prg
+Called from TMYSQLQUERY:SKIP(0) in hbmysql\tmysql.prg
+Called from TMYSQLTABLE:SKIP(0) in hbmysql\tmysql.prg
+Called from PESQUISA_MAQUINA3(1191) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from GRAVA_DADOS_MYSQL_MAQ3(796) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.Called from GRAVA_MYSQL(415) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from (b)MAIN(159) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-12-15 11:40:37
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-12-20 11:19:34
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2016-12-22 14:30:33
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2017-01-03 20:51:17
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2017-01-05 14:54:58
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2017-01-11 07:16:02
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2017-01-18 01:34:31
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2017-01-25 15:50:05
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from LOGIN(71) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_login.prg
+Called from ABORTA_AUTOCLAVE1(117) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_autoclavesCalled from (b)PROCESSO(1180) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1762) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2017-01-31 11:10:54
+Erro irrecuper vel 9006: hb_xgrab nao pode alocar mem¢ria
+Called from TYPE(0)
+Called from _ISCONTROLDEFINED(1143) in source\h_controlmisc.prg
+Called from GETPROPERTY(8493) in source\h_controlmisc.prg
+Called from RELATORIO_MAQ(708) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\F_relatorio.Prg
+Called from (b)RELATORIO_ESTERILIZACAO(1142) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\F_Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1762) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from RELATORIO_ESTERILIZACAO(17) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\F_relatCalled from (b)PROCESSO(19) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1717) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------
+Application Internal Error - C:\TECHWORKS\Sistema\ESTERILIZACAO.exe
+Terminated at: 2017-02-02 01:10:33
+Erro irrecuper vel 9009: hb_xrealloc nao pode realocar mem¢ria
+Called from RECEBE(879) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from READ_MODBUS_CNET(318) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.pCalled from READ_CLOCK(384) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\modbus_cnet.prg
+Called from (b)MAIN(157) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1592) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from PROCESSO(66) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_processo.prg
+Called from (b)MAIN(24) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+Called from _DOCONTROLEVENTPROCEDURE(6006) in source\h_windows.prg
+Called from EVENTS(1724) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5669) in source\h_windows.prg
+Called from DOMETHOD(8990) in source\h_controlmisc.prg
+Called from MAIN(349) in E:\@Prog-Xbase\@Projetos\@MySQL\SISTEMAS\ESTERELIZACAO_CENTRAL_HERTAPE\MasterServ-EST-CENTRAL-HERTAPE-REV4\f_main.prg
+------------------------------------------------------------------------

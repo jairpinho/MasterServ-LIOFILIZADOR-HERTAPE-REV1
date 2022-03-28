@@ -1,0 +1,292 @@
+* HMG-IDE Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 265 , 387 WIDTH 296 HEIGHT 261 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "Status do Usuário :" ICON "ICONE01" MODAL NOSIZE NOSYSMENU CURSOR NIL ON INIT Nil ON RELEASE Nil ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON PAINT Nil BACKCOLOR Nil ON GOTFOCUS Nil ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE LABEL Label_1
+        ROW    16
+        COL    10
+        WIDTH  120
+        HEIGHT 14
+        VALUE "Nível do Usuário :"
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR {0,0,255}
+    END LABEL
+
+    DEFINE LABEL Label_2
+        ROW    40
+        COL    10
+        WIDTH  80
+        HEIGHT 14
+        VALUE "Inclusões :"
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        RIGHTALIGN .T. 
+    END LABEL
+
+    DEFINE LABEL Label_3
+        ROW    70
+        COL    10
+        WIDTH  80
+        HEIGHT 14
+        VALUE "Alterações :"
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        RIGHTALIGN .T. 
+    END LABEL
+
+    DEFINE LABEL Label_4
+        ROW    100
+        COL    10
+        WIDTH  80
+        HEIGHT 14
+        VALUE "Exclusões :"
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        RIGHTALIGN .T. 
+    END LABEL
+
+    DEFINE LABEL Label_5
+        ROW    130
+        COL    10
+        WIDTH  80
+        HEIGHT 14
+        VALUE "Relatórios :"
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        RIGHTALIGN .T. 
+    END LABEL
+
+    DEFINE LABEL Label_6
+        ROW    160
+        COL    20
+        WIDTH  250
+        HEIGHT 14
+        VALUE "Senha Vence em :"
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR {128,0,0}
+    END LABEL
+
+    DEFINE TIMER Timer_1 INTERVAL 3000 ACTION  Form_Status_Usuario.Release
+
+    DEFINE LABEL Label_7
+        ROW    190
+        COL    90
+        WIDTH  120
+        HEIGHT 14
+        VALUE "Aguarde .........."
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+    END LABEL
+
+    DEFINE LABEL Label_8
+        ROW    70
+        COL    150
+        WIDTH  120
+        HEIGHT 24
+        VALUE "Usuário"
+        FONTNAME "Arial"
+        FONTSIZE 15
+        TOOLTIP ""
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        CENTERALIGN .T. 
+    END LABEL
+
+    DEFINE LABEL Label_9
+        ROW    110
+        COL    150
+        WIDTH  120
+        HEIGHT 24
+        VALUE "--"
+        FONTNAME "Arial"
+        FONTSIZE 15
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR {0,0,160}
+        CENTERALIGN .T. 
+    END LABEL
+
+    DEFINE IMAGE Image_1
+        ROW    40
+        COL    100
+        WIDTH  20
+        HEIGHT 20
+        PICTURE ""
+        HELPID Nil
+        VISIBLE .T.
+        STRETCH .F.
+        ACTION Nil
+    END IMAGE
+
+    DEFINE IMAGE Image_2
+        ROW    70
+        COL    100
+        WIDTH  20
+        HEIGHT 20
+        PICTURE ""
+        HELPID Nil
+        VISIBLE .T.
+        STRETCH .F.
+        ACTION Nil
+    END IMAGE
+
+    DEFINE IMAGE Image_3
+        ROW    100
+        COL    100
+        WIDTH  20
+        HEIGHT 20
+        PICTURE ""
+        HELPID Nil
+        VISIBLE .T.
+        STRETCH .F.
+        ACTION Nil
+    END IMAGE
+
+    DEFINE IMAGE Image_4
+        ROW    130
+        COL    100
+        WIDTH  20
+        HEIGHT 20
+        PICTURE ""
+        HELPID Nil
+        VISIBLE .T.
+        STRETCH .F.
+        ACTION Nil
+    END IMAGE
+
+    DEFINE TEXTBOX Text_1
+        ROW    10
+        COL    130
+        WIDTH  20
+        HEIGHT 25
+        FONTNAME "Arial"
+        FONTSIZE 12
+        TOOLTIP ""
+        ONCHANGE Nil
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONENTER Nil
+        HELPID Nil
+        TABSTOP .T.
+        VISIBLE .T.
+        READONLY .T.
+        RIGHTALIGN .T.
+        DISABLEDBACKCOLOR Nil
+        DISABLEDFONTCOLOR Nil
+        CASECONVERT NONE
+        BACKCOLOR NIL
+        FONTCOLOR {0,0,0}
+        INPUTMASK Nil
+        FORMAT Nil
+        VALUE ""
+    END TEXTBOX
+
+END WINDOW
+

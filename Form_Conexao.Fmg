@@ -1,0 +1,65 @@
+* HMG-IDE ANSI Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 286 , 305 WIDTH 366 HEIGHT 163 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "Aguarde ......" ICON NIL MODAL NOSIZE NOSYSMENU CURSOR NIL ON INIT IIF( lConnected == .T.,Espera_Conexao(), NIL ) ON RELEASE Nil ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON PAINT Nil BACKCOLOR Nil ON GOTFOCUS Nil ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE LABEL Label_1
+        ROW    30
+        COL    20
+        WIDTH  250
+        HEIGHT 25
+        VALUE ""
+        FONTNAME "Arial"
+        FONTSIZE 14
+        TOOLTIP ""
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        CENTERALIGN .T. 
+    END LABEL
+
+    DEFINE IMAGE Image_1
+        ROW    10
+        COL    280
+        WIDTH  60
+        HEIGHT 60
+        PICTURE "desabilitado"
+        HELPID Nil
+        VISIBLE .T.
+        STRETCH .T.
+        ACTION Nil
+    END IMAGE
+
+    DEFINE LABEL Label_2
+        ROW    90
+        COL    10
+        WIDTH  330
+        HEIGHT 15
+        VALUE ""
+        FONTNAME "Arial"
+        FONTSIZE 12
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .T.
+        BACKCOLOR NIL
+        FONTCOLOR {0,0,255}
+        CENTERALIGN .T. 
+    END LABEL
+
+END WINDOW
+

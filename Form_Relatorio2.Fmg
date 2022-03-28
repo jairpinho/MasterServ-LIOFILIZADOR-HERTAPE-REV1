@@ -1,0 +1,307 @@
+* HMG-IDE ANSI Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 7 , 26 WIDTH 1314 HEIGHT 720 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "Relatório Esterilização Central cMT Viewer" ICON NIL MODAL NOSYSMENU CURSOR NIL ON INIT Nil ON RELEASE Nil ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON PAINT Nil BACKCOLOR Nil ON GOTFOCUS Nil ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE TAB Tab_1 AT 0 , 0 WIDTH 1305 HEIGHT 670 VALUE 1 FONT "Arial" SIZE 14 BOLD TOOLTIP "" ON CHANGE Nil
+
+        PAGE "Relatório Processo"
+
+            DEFINE BUTTON Button_2
+                ROW    560
+                COL    20
+                WIDTH  100
+                HEIGHT 40
+                ACTION Relatorio_Maq2()
+                CAPTION "EVENTOS"
+                FONTNAME "Arial"
+                FONTSIZE 12
+                TOOLTIP ""
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                ONGOTFOCUS Nil
+                ONLOSTFOCUS Nil
+                HELPID Nil
+                FLAT .F.
+                TABSTOP .T.
+                VISIBLE .T.
+                TRANSPARENT .F.
+                MULTILINE .F.
+                PICTURE Nil
+                PICTALIGNMENT LEFT
+            END BUTTON
+
+            DEFINE GRID Grid_1
+                ROW    140
+                COL    20
+                WIDTH  1250
+                HEIGHT 400
+                ITEMS ""
+                VALUE Nil
+                WIDTHS {100,100,60,60,60,60,60,60,70}
+                HEADERS {"DATA","HORA","T1","T2","T3","T4","T5","T6","ETAPA"}
+                FONTNAME "Arial"
+                FONTSIZE 9
+                TOOLTIP ""
+                ONCHANGE Nil
+                ONGOTFOCUS Nil
+                ONLOSTFOCUS Nil
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                ONDBLCLICK Nil
+                ONHEADCLICK Nil
+                ONQUERYDATA Nil
+                MULTISELECT .F.
+                ALLOWEDIT .F.
+                VIRTUAL .F.
+                DYNAMICBACKCOLOR Nil
+                DYNAMICFORECOLOR Nil
+                COLUMNWHEN Nil
+                COLUMNVALID Nil
+                COLUMNCONTROLS Nil
+                SHOWHEADERS .T.
+                CELLNAVIGATION .F.
+                NOLINES .F.
+                HELPID Nil
+                IMAGE Nil
+                JUSTIFY {BJC,BJC,BJC,BJC,BJC,BJC,BJC,BJC,BJC}
+                ITEMCOUNT Nil
+                BACKCOLOR {255,255,215}
+                FONTCOLOR NIL
+                HEADERIMAGES Nil
+                ROWSOURCE Nil
+                COLUMNFIELDS Nil
+                ALLOWAPPEND .F.
+                ALLOWDELETE .F.
+                BUFFERED .F.
+                DYNAMICDISPLAY Nil
+                ONSAVE Nil
+                LOCKCOLUMNS 0
+            END GRID
+
+            DEFINE BUTTON Button_1
+                ROW    60
+                COL    190
+                WIDTH  100
+                HEIGHT 40
+                ACTION Pesquisa_Relatorio_Maquinas2()
+                CAPTION "PESQUISAR"
+                FONTNAME "Arial"
+                FONTSIZE 11
+                TOOLTIP ""
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                ONGOTFOCUS Nil
+                ONLOSTFOCUS Nil
+                HELPID Nil
+                FLAT .F.
+                TABSTOP .T.
+                VISIBLE .T.
+                TRANSPARENT .F.
+                MULTILINE .F.
+                PICTURE Nil
+                PICTALIGNMENT TOP
+            END BUTTON
+
+            DEFINE BUTTON Button_5
+                ROW    610
+                COL    20
+                WIDTH  100
+                HEIGHT 40
+                ACTION Form_Relatorio2.Release
+                CAPTION "Sair"
+                FONTNAME "Arial"
+                FONTSIZE 16
+                TOOLTIP ""
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                ONGOTFOCUS Nil
+                ONLOSTFOCUS Nil
+                HELPID Nil
+                FLAT .F.
+                TABSTOP .T.
+                VISIBLE .T.
+                TRANSPARENT .F.
+                MULTILINE .F.
+                PICTURE Nil
+                PICTALIGNMENT TOP
+            END BUTTON
+
+            DEFINE LABEL Label_14
+                ROW    110
+                COL    20
+                WIDTH  250
+                HEIGHT 24
+                VALUE "Total de Registros :"
+                FONTNAME "Arial"
+                FONTSIZE 14
+                TOOLTIP ""
+                FONTBOLD .F.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                HELPID Nil
+                VISIBLE .T.
+                TRANSPARENT .F.
+                ACTION Nil
+                AUTOSIZE .F.
+                BACKCOLOR NIL
+                FONTCOLOR NIL
+            END LABEL
+
+            DEFINE BUTTON Button_3
+                ROW    560
+                COL    130
+                WIDTH  100
+                HEIGHT 40
+                ACTION CRia_Grafico_PDF2()
+                CAPTION "GRAFICO"
+                FONTNAME "Arial"
+                FONTSIZE 12
+                TOOLTIP ""
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                ONGOTFOCUS Nil
+                ONLOSTFOCUS Nil
+                HELPID Nil
+                FLAT .F.
+                TABSTOP .T.
+                VISIBLE .T.
+                TRANSPARENT .F.
+                MULTILINE .F.
+                PICTURE Nil
+                PICTALIGNMENT TOP
+            END BUTTON
+
+            DEFINE COMBOBOX Combo_3
+                ROW    620
+                COL    140
+                WIDTH  80
+                HEIGHT 100
+                ITEMS {"0.5","1","1.5","2","2.5","3","3.5","4","4.5","5","5.5","6"}
+                VALUE 2
+                FONTNAME "Arial"
+                FONTSIZE 12
+                TOOLTIP ""
+                ONCHANGE Nil
+                ONGOTFOCUS Nil
+                ONLOSTFOCUS Nil
+                FONTBOLD .F.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                HELPID Nil
+                TABSTOP .T.
+                VISIBLE .T.
+                SORT .F.
+                ONENTER Nil
+                ONDISPLAYCHANGE Nil
+                DISPLAYEDIT .F.
+                IMAGE Nil
+                DROPPEDWIDTH Nil
+                ONDROPDOWN Nil
+                ONCLOSEUP Nil
+            END COMBOBOX
+
+            DEFINE FRAME Frame_2
+                ROW    545
+                COL    125
+                WIDTH  110
+                HEIGHT 120
+                FONTNAME "Arial"
+                FONTSIZE 9
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                CAPTION "Gráfico PDF"
+                BACKCOLOR NIL
+                FONTCOLOR NIL
+                OPAQUE .T.
+            END FRAME
+
+            DEFINE LABEL Label_25
+                ROW    605
+                COL    140
+                WIDTH  80
+                HEIGHT 16
+                VALUE "Escala"
+                FONTNAME "Arial"
+                FONTSIZE 9
+                TOOLTIP ""
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                HELPID Nil
+                VISIBLE .T.
+                TRANSPARENT .F.
+                ACTION Nil
+                AUTOSIZE .F.
+                BACKCOLOR NIL
+                FONTCOLOR NIL
+            END LABEL
+
+            DEFINE DATEPICKER DatePicker_1
+                ROW    70
+                COL    20
+                WIDTH  150
+                HEIGHT 24
+                VALUE CTOD("  /  /  ")
+                FONTNAME "Arial"
+                FONTSIZE 12
+                TOOLTIP ""
+                ONCHANGE Nil
+                ONGOTFOCUS Nil
+                ONLOSTFOCUS Nil
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                ONENTER Nil
+                HELPID Nil
+                TABSTOP .T.
+                VISIBLE .T.
+                SHOWNONE .F.
+                UPDOWN .F.
+                RIGHTALIGN .F.
+            END DATEPICKER
+
+            DEFINE LABEL Label_1
+                ROW    50
+                COL    20
+                WIDTH  120
+                HEIGHT 16
+                VALUE "Data"
+                FONTNAME "Arial"
+                FONTSIZE 10
+                TOOLTIP ""
+                FONTBOLD .T.
+                FONTITALIC .F.
+                FONTUNDERLINE .F.
+                FONTSTRIKEOUT .F.
+                HELPID Nil
+                VISIBLE .T.
+                TRANSPARENT .F.
+                ACTION Nil
+                AUTOSIZE .F.
+                BACKCOLOR Nil
+                FONTCOLOR Nil
+            END LABEL
+
+        END PAGE 
+
+    END TAB 
+
+END WINDOW
+

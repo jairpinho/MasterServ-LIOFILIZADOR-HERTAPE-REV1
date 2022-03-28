@@ -1,0 +1,261 @@
+* HMG-IDE ANSI Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 140 , 480 WIDTH 433 HEIGHT 564 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "" ICON "seven" MODAL NOSIZE CURSOR NIL ON INIT Renova_Pesquisa_Usuario(" ") ON RELEASE Back_Old_User( cUser ) ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON PAINT Nil BACKCOLOR Nil ON GOTFOCUS Form_Usuarios.TxtPesquisa.SetFocus ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE STATUSBAR FONT "Arial" SIZE 9 BOLD
+        STATUSITEM "Usuário Atual :" WIDTH 150 ACTION nil
+    END STATUSBAR
+
+    DEFINE GRID Grid_Usuarios
+        ROW    25
+        COL    10
+        WIDTH  400
+        HEIGHT 329
+        ITEMS ""
+        VALUE Nil
+        WIDTHS {60,150,333}
+        HEADERS {"Código","Apelido","Nome"}
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        ONCHANGE Nil
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONDBLCLICK Bt_Novo_usuario(2)
+        ONHEADCLICK Nil
+        ONQUERYDATA Nil
+        MULTISELECT .F.
+        ALLOWEDIT .F.
+        VIRTUAL .F.
+        DYNAMICBACKCOLOR Nil
+        DYNAMICFORECOLOR Nil
+        COLUMNWHEN Nil
+        COLUMNVALID Nil
+        COLUMNCONTROLS Nil
+        SHOWHEADERS .T.
+        CELLNAVIGATION .F.
+        NOLINES .F.
+        HELPID Nil
+        IMAGE Nil
+        JUSTIFY Nil
+        ITEMCOUNT Nil
+        BACKCOLOR {128,255,255}
+        FONTCOLOR NIL
+        HEADERIMAGES Nil
+        ROWSOURCE Nil
+        COLUMNFIELDS Nil
+        ALLOWAPPEND .F.
+        ALLOWDELETE .F.
+        BUFFERED .F.
+        DYNAMICDISPLAY .F.
+        ONSAVE Nil
+        LOCKCOLUMNS 0
+    END GRID
+
+    DEFINE BUTTON Novo_usuario
+        ROW    460
+        COL    10
+        WIDTH  70
+        HEIGHT 50
+        ACTION Bt_Novo_usuario(1)
+        CAPTION "&Novo"
+        FONTNAME "Arial"
+        FONTSIZE 11
+        TOOLTIP "Adiciona um novo Usuario"
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE Nil
+        PICTALIGNMENT TOP
+    END BUTTON
+
+    DEFINE BUTTON Editar_Usuario
+        ROW    460
+        COL    80
+        WIDTH  70
+        HEIGHT 50
+        ACTION Bt_Novo_usuario(2)
+        CAPTION "&Editar"
+        FONTNAME "Arial"
+        FONTSIZE 11
+        TOOLTIP "Altera um Usuario existente"
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE Nil
+        PICTALIGNMENT TOP
+    END BUTTON
+
+    DEFINE BUTTON Excluir_Usuario
+        ROW    460
+        COL    150
+        WIDTH  70
+        HEIGHT 50
+        ACTION Bt_Excluir_Usuario(1)
+        CAPTION "E&xcluir"
+        FONTNAME "Arial"
+        FONTSIZE 11
+        TOOLTIP "Exclui um usuario"
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE Nil
+        PICTALIGNMENT TOP
+    END BUTTON
+
+    DEFINE BUTTON Bt_Sair_Usuario
+        ROW    460
+        COL    340
+        WIDTH  70
+        HEIGHT 50
+        ACTION Bt_Sair_Usuario()
+        CAPTION "&Sair"
+        FONTNAME "Arial"
+        FONTSIZE 14
+        TOOLTIP "Encerra o modulo Usuarios"
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE Nil
+        PICTALIGNMENT TOP
+    END BUTTON
+
+    DEFINE LABEL Label_Pesquisa
+        ROW    360
+        COL    20
+        WIDTH  60
+        HEIGHT 15
+        VALUE "Pesquisa"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+    END LABEL
+
+    DEFINE TEXTBOX TxtPesquisa
+        ROW    380
+        COL    20
+        WIDTH  326
+        HEIGHT 25
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP "Digite um Nome para Pesquisa"
+        ONCHANGE Nil
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONENTER Pesquisa_Usuario()
+        HELPID Nil
+        TABSTOP .T.
+        VISIBLE .T.
+        READONLY .F.
+        RIGHTALIGN .F.
+        DISABLEDBACKCOLOR Nil
+        DISABLEDFONTCOLOR Nil
+        CASECONVERT NONE
+        BACKCOLOR {128,255,255}
+        FONTCOLOR NIL
+        INPUTMASK Nil
+        FORMAT Nil
+        VALUE ""
+    END TEXTBOX
+
+    DEFINE FRAME Frame_1
+        ROW    0
+        COL    5
+        WIDTH  410
+        HEIGHT 420
+        FONTNAME "Arial"
+        FONTSIZE 14
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        CAPTION "Usuários :"
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        OPAQUE .T.
+    END FRAME
+
+    DEFINE BUTTON Button_1
+        ROW    460
+        COL    230
+        WIDTH  100
+        HEIGHT 50
+        ACTION Lembrar_Senha()
+        CAPTION "Lembrar Senha"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE Nil
+        PICTALIGNMENT TOP
+    END BUTTON
+
+END WINDOW
+

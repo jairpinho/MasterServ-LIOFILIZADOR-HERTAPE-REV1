@@ -1,0 +1,40 @@
+LIOFILIZADOR:
+
+IP CLP = 192.168.0.74 /  externo 201.48.40.161:4550
+PORTA : 2002 / externo 4550
+
+IP IHM = 192.168.0.76 /  externo 201.48.40.161:5922
+PORTAS: 
+5900 vnc 
+21 ftp
+20 ftp
+8000 modbus server/virtual server
+2000~2100 virtual com port
+21248 padrao upload/download / 201.48.40.161:21248
+ 
+*****************************************************
+
+ESTERILIZAÇÃO
+
+IP CLP = 192.168.0.77 / externo 201.48.40.161:4551
+PORTA : 2002 / externo 4551
+
+IP IHM = 192.168.0.89 / externo 201.48.40.161:5923
+PORTAS: 
+5900 vnc 
+21 ftp
+20 ftp
+8000 modbus server/virtual server
+2000~2100 virtual com port
+20248 padrao upload/download / 201.48.40.161:20248
+
+acesso pc esterilização pelo mstsc
+200.251.123.130:3391
+usuario: techworks
+senha : techworks@2015
+
+Servidor e base de dados:
+Ip: 192.168.0.26
+Bd: esterilização
+User name: esterilização
+Senha: 0708648
